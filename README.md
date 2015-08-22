@@ -79,7 +79,7 @@ void main() {
 }
 ```
 
-For a full example, see [demo.js](demo.js).
+For a full example, see [demo.frag](demo.frag).
 
 ## Contributing
 
