@@ -1,6 +1,6 @@
 {
   "name": "glsl-ruler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GLSL SDF function for generating a sphere.",
   "main": "index.glsl",
   "license": "MIT",
