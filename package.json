@@ -2,7 +2,7 @@
   "name": "glsl-ruler",
   "version": "1.0.0",
   "description": "GLSL SDF function for generating a sphere.",
-  "main": "index.glsl",
+  "main": "trace.glsl",
   "license": "MIT",
   "scripts": {
     "start": "beefy demo.js:bundle.js -- -t glslify",
