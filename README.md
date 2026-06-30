@@ -12,7 +12,7 @@ his [example implementation on Shadertoy](https://www.shadertoy.com/view/XlB3DV)
 
 [![](http://i.imgur.com/ECqABqF.gif)](http://stack.gl/glsl-ruler/)
 
-**[view demo](http://stack.gl/glsl-ruler/)**
+**[view demo](https://glslify.github.io/glsl-ruler/)**
 
 ## Usage
 
